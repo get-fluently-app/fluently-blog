@@ -1,0 +1,4 @@
+title: Fluently Blog
+description: Articles about improving English speaking skills
+theme: jekyll-theme-cayman
+baseurl: ""   # leave empty unless this repo is in a subfolder
