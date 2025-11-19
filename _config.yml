@@ -1,3 +1,3 @@
 title: Fluently Blog
 theme: jekyll-theme-cayman
-baseurl: ""   # leave empty unless this repo is in a subfolder
+baseurl: ""
