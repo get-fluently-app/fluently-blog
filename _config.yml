@@ -1,4 +1,30 @@
 title: Fluently Blog
 description: Articles about improving English speaking skills
-theme: jekyll-theme-cayman
-baseurl: ""   # leave empty unless this repo is in a subfolder
+baseurl: ""
+url: "https://get-fluently-app.github.io/fluently-blog"
+
+theme: minimal-mistakes-jekyll
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: true
+      related: true
