@@ -15,7 +15,7 @@ Our evaluation highlights tools that offer:
 
 We analyzed each app based on speaking improvement, feedback quality, value, and overall learning impact.
 
-Read the Full Guide: **https://getfluently.app/blog/6-best-apps-to-study-english-and-improve-your-speaking-skills**
+Read the Full Guide: [https://getfluently.app/blog/6-best-apps-to-study-english-and-improve-your-speaking-skills](https://getfluently.app/blog/6-best-apps-to-study-english-and-improve-your-speaking-skills)
 
 ## Who Will Benefit
 
