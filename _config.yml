@@ -1,6 +1,0 @@
-title: Fluently Blog
-theme: jekyll-theme-cayman
-baseurl: ""
-
-# Remove dates from post URLs
-permalink: /:categories/:title/
