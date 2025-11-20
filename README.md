@@ -2,7 +2,7 @@
 
 ## Learn to Speak English More Confidently - With Fluently
 
-Welcome to the **Fluently Blog** - a growing collection of practical articles to help you improve your English speaking skills using **Fluently, your AI English tutor**.
+Welcome to the **Fluently Blog** - a growing collection of practical articles to help you improve your English speaking skills using [**Fluently: AI English tutor**](https://getfluently.app/).
 
 Here you’ll find short guides, insights, and tips to improve fluency, pronunciation, and confidence in English.  
 
