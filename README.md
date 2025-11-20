@@ -26,7 +26,7 @@ Perfect for professionals, job seekers, founders, and anyone who needs English f
 
 ## Articles
 
-1. [The 6 Best Apps to Improve English Skills](https://github.com/get-fluently-app/fluently-blog/blob/main/The-6-best-apps-to-improve-english-skills)
+1. [The 6 Best Apps to Improve English Skills](https://github.com/get-fluently-app/fluently-blog/blob/main/The-6-best-apps-to-improve-english-skills.md)
 
 More articles coming soon!
 
