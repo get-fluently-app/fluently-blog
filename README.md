@@ -29,6 +29,7 @@ Perfect for professionals, job seekers, founders, and anyone who needs English f
 1. [The 6 Best Apps to Improve English Skills](https://github.com/get-fluently-app/fluently-blog/blob/main/The-6-best-apps-to-improve-english-skills.md) - Discover 6 top apps to boost your English speaking skills and practice fluently anywhere, anytime!
 2. [12 Practical tips to speak English better](https://github.com/get-fluently-app/fluently-blog/blob/main/How-to-improve-English-speaking-fast.md) - A simple guide to speaking English more confidently, improving fluency, and practicing in real life - not just in textbooks.
 3. [15 Proven Tips to Sound Natural and Confident](https://github.com/get-fluently-app/fluently-blog/blob/main/how-to-speak-english-fluently-15-proven-tips-to-sound-natural-and-confident.md) - 15 proven tips to speak English fluently.
+4. [How To Learn English Fast](https://github.com/get-fluently-app/fluently-blog/blob/main/14-Effective-ways-to-learn-english-fast.md) - 14 effective and easy habits to learn English fast.
 
 More articles coming soon!
 
